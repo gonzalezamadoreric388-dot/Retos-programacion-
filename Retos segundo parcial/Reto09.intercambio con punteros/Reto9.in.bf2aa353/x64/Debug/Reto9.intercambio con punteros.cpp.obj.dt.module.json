@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Reto9.in.bf2aa353\\x64\\Debug\\Reto9.intercambio con punteros.obj",
+            "outputs": [
+                "Reto9.in.bf2aa353\\x64\\Debug\\Reto9.intercambio con punteros.cpp.obj.dt.module.json",
+                "Reto9.in.bf2aa353\\x64\\Debug\\Reto9.intercambio con punteros.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
