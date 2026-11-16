@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Reto13.u.d2857191\\x64\\Debug\\Reto13.uso de estructuras.obj",
+            "outputs": [
+                "Reto13.u.d2857191\\x64\\Debug\\Reto13.uso de estructuras.cpp.obj.dt.module.json",
+                "Reto13.u.d2857191\\x64\\Debug\\Reto13.uso de estructuras.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
