@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Reto10.r.2469ba84\\x64\\Debug\\Reto10.registro de estudiante.obj",
+            "outputs": [
+                "Reto10.r.2469ba84\\x64\\Debug\\Reto10.registro de estudiante.cpp.obj.dt.module.json",
+                "Reto10.r.2469ba84\\x64\\Debug\\Reto10.registro de estudiante.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
