@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Reto12=u.591e0dd1\\x64\\Debug\\Reto12=uso de apuntadores.obj",
+            "outputs": [
+                "Reto12=u.591e0dd1\\x64\\Debug\\Reto12=uso de apuntadores.cpp.obj.dt.module.json",
+                "Reto12=u.591e0dd1\\x64\\Debug\\Reto12=uso de apuntadores.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
