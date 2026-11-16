@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Reto11.B.1733ed88\\x64\\Debug\\Reto11.Busqueda en texto.obj",
+            "outputs": [
+                "Reto11.B.1733ed88\\x64\\Debug\\Reto11.Busqueda en texto.cpp.obj.dt.module.json",
+                "Reto11.B.1733ed88\\x64\\Debug\\Reto11.Busqueda en texto.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
