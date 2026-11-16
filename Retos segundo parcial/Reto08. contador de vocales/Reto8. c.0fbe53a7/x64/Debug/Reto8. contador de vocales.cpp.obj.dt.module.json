@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Reto8. c.0fbe53a7\\x64\\Debug\\Reto8. contador de vocales.obj",
+            "outputs": [
+                "Reto8. c.0fbe53a7\\x64\\Debug\\Reto8. contador de vocales.cpp.obj.dt.module.json",
+                "Reto8. c.0fbe53a7\\x64\\Debug\\Reto8. contador de vocales.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
