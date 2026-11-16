@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Reto4.Ta.4909bc11\\x64\\Debug\\Reto4.Tabla de multiplicar.obj",
+            "outputs": [
+                "Reto4.Ta.4909bc11\\x64\\Debug\\Reto4.Tabla de multiplicar.cpp.obj.dt.module.json",
+                "Reto4.Ta.4909bc11\\x64\\Debug\\Reto4.Tabla de multiplicar.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
