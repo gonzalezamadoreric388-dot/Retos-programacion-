@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Reto7.su.00ded0fb\\x64\\Debug\\Reto7.suma de un arreglo.obj",
+            "outputs": [
+                "Reto7.su.00ded0fb\\x64\\Debug\\Reto7.suma de un arreglo.cpp.obj.dt.module.json",
+                "Reto7.su.00ded0fb\\x64\\Debug\\Reto7.suma de un arreglo.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
