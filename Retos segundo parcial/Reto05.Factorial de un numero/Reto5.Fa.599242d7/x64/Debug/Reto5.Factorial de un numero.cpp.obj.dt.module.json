@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Reto5.Fa.599242d7\\x64\\Debug\\Reto5.Factorial de un numero.obj",
+            "outputs": [
+                "Reto5.Fa.599242d7\\x64\\Debug\\Reto5.Factorial de un numero.cpp.obj.dt.module.json",
+                "Reto5.Fa.599242d7\\x64\\Debug\\Reto5.Factorial de un numero.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
