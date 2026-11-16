@@ -1,2 +1,3 @@
-12 Uso de Apuntadores
-Este codigo explora las diferencias practicas y teoricas en el manejo de datos al emplear apuntadores tanto en variables simples como en arreglos estaticos. El programa esta estructurado para mostrar de manera comparativa como se accede, se interpreta y se modifica la informacion utilizando la aritmetica de punteros frente al metodo tradicional de variables directas, reforzando asi la comprension profunda de la gestion de memoria en la programacion estructurada.
+  Reto.13 uso de estructuras
+
+El objetivo de este ejercicio es trabajar con registros personalizados mediante estructuras de tipo Estudiante. El código recopila e imprime información de un alumno de forma aislada y de un grupo pequeño mediante un arreglo, combinando el uso de cadenas de texto y valores numéricos.
