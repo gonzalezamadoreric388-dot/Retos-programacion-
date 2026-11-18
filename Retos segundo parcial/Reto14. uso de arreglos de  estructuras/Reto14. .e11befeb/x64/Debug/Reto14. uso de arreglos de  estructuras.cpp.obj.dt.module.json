@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Reto14. .e11befeb\\x64\\Debug\\Reto14. uso de arreglos de  estructuras.obj",
+            "outputs": [
+                "Reto14. .e11befeb\\x64\\Debug\\Reto14. uso de arreglos de  estructuras.cpp.obj.dt.module.json",
+                "Reto14. .e11befeb\\x64\\Debug\\Reto14. uso de arreglos de  estructuras.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
