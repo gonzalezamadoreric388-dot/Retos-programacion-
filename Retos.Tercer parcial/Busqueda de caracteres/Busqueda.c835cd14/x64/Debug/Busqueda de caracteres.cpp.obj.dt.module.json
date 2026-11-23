@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Busqueda.c835cd14\\x64\\Debug\\Busqueda de caracteres.obj",
+            "outputs": [
+                "Busqueda.c835cd14\\x64\\Debug\\Busqueda de caracteres.cpp.obj.dt.module.json",
+                "Busqueda.c835cd14\\x64\\Debug\\Busqueda de caracteres.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
