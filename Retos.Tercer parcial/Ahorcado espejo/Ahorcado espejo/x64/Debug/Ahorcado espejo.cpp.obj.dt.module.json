@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Ahorcado espejo\\x64\\Debug\\Ahorcado espejo.obj",
+            "outputs": [
+                "Ahorcado espejo\\x64\\Debug\\Ahorcado espejo.cpp.obj.dt.module.json",
+                "Ahorcado espejo\\x64\\Debug\\Ahorcado espejo.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

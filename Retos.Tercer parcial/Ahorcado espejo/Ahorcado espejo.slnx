@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ahorcado espejo.vcxproj" Id="d8f45638-3227-4a17-bc2c-2b4196c93b29" />
+</Solution>
